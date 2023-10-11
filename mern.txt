@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is a basic HTML document.</p>
+</body>
+</html>
+<a href="https://www.example.com">Visit Example.com</a>
+<img src="image.jpg" alt="An example image">
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+<form action="submit.php" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name">
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+    
+    <input type="submit" value="Submit">
+</form>
